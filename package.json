@@ -1,5 +1,5 @@
 {
-    "name": "nodemonitor",
+    "name": "node-monitor",
     "version": "1.0.0",
     "description": "A lightweight alertnative to nodemon to monitor your Node Application",
     "main": "index.js",
@@ -7,7 +7,7 @@
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "bin": {
-        "nodemonitor": "./index.js"
+        "node-monitor": "./index.js"
     },
     "author": {
         "name": "Abhinav Jha",
@@ -18,7 +18,8 @@
         "restart",
         "node",
         "javascript",
-        "nodemonitor"
+        "NodeMonitor",
+        "node-monitor"
     ],
     "license": "ISC",
     "dependencies": {

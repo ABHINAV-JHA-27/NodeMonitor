@@ -1,2 +1,2 @@
 #!/usr/bin/env node
-module.exports = require("./lib/nodekeeper.js");
+module.exports = require("./lib/node-monitor.js");
