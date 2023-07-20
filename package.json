@@ -1,5 +1,5 @@
 {
-    "name": "node-monitor",
+    "name": "devkeeper",
     "version": "1.0.0",
     "description": "A lightweight alertnative to nodemon to monitor your Node Application",
     "main": "index.js",
@@ -18,8 +18,7 @@
         "restart",
         "node",
         "javascript",
-        "NodeMonitor",
-        "node-monitor"
+        "devkeeper"
     ],
     "license": "ISC",
     "dependencies": {
