@@ -1,2 +1,2 @@
 #!/usr/bin/env node
-console.log("Hey ! Welcome to NodeMonitor");
+module.exports = require("./lib/nodekeeper.js");
