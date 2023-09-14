@@ -1,5 +1,5 @@
 {
-    "name": "devkeeper",
+    "name": "node-peeker",
     "version": "1.0.0",
     "description": "A lightweight alertnative to nodemon to monitor your Node Application",
     "main": "index.js",
@@ -18,7 +18,7 @@
         "restart",
         "node",
         "javascript",
-        "devkeeper"
+        "node-peeker"
     ],
     "license": "ISC",
     "dependencies": {
